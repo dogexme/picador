@@ -1,2 +1,2 @@
 # picador
-client for dogecoin wrapper 
+client for dogecoin wrapper/plugin
